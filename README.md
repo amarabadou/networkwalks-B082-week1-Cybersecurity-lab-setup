@@ -3,11 +3,5 @@ Cybersecurity LAB setup
 the purpose of this is to work in the becoming weeks with this LAB so it is like a tool of a Cybersecurity engineer
 
 The Steps i have followed to create this LAB are :
-
-- Step 1. Download & install 7-zip: https://7-zip.org/download.html
-- Step 2. Download & install Virtualbox on your laptop/PC: https://virtualbox.org/wiki/Downloads
-- Step 3. Configure the network settings on your Virtualbox (create NATNetwork in 10.0.0.0/24)
-- Step 4. Download & import Kali Linux Virtual Machine in your Virtualbox: https://kali.org/get-kali
-- Step 5. Setup the IP configuration of Kali Linux
-- Step 6. Take snapshot of the VM
+ <img width="1068" height="257" alt="image" src="https://github.com/user-attachments/assets/13d65a6b-7573-4994-a3a9-20fa05ffc8ef" />
 
